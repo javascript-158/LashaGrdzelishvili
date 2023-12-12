@@ -9,7 +9,7 @@ console.log(arrayChecker);
 
 console.log(fruit[0]);
 
-// 3.      შექმენით პროგრამა, რომელიც გამოიტანს მასივის ბოლო ელემენტს.
+// 3.       შექმენით პროგრამა, რომელიც გამოიტანს მასივის ბოლო ელემენტს.
 
 let lastElement = fruit.length
 console.log(fruit[lastElement-1]);
@@ -26,6 +26,7 @@ console.log("1" + o[1] + " choice is " + color[0] + '.');
 console.log("2" + o[2] + " choice is " + color[1] + '.');
 
 console.log("3" + o[3] + " choice is " + color[2] + '.');
+
 
 
 // 5)
